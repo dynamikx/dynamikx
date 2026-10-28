@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dynamikx
-- 👀 I’m interested in learning new things, regardless of how hard it is
-- 🌱 I’m currently learning GDScript for Godot, as I am developing a game
-- 📫 How to reach me ... You can reach me via Discord: dynamikx
+- 👀 I’m interested in making videos for my YouTube channel, listening and making music, and recently, coding.
+- 🌱 Currently learning Python cuz I wanna larp
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an actual human 🤯
 
